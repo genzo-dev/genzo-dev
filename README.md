@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre Java Script e React</p>
+<p align="left">- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre TypeScript e React</p>
 
 ###
 
