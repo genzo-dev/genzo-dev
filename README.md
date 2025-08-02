@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre TypeScript e NextJS</p>
+<p align="left">- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre TypeScript, NextJS e NestJS</p>
 
 ###
 
