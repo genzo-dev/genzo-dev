@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Programador fullstack voltado para web<br>- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre TypeScript, NextJS e NestJS</p>
+<p align="left">-Programador fullstack voltado para web<br>- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre TypeScript, NextJS e NestJS</p>
 
 ###
 
