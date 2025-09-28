@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre TypeScript, NextJS e NestJS</p>
+<p align="left">Programador fullstack voltado para web<br>- Técnico em Informática<br>- Graduando em Análise e Desenvolvimento de Sistemas<br>- Atualmente aprendendo mais sobre TypeScript, NextJS e NestJS</p>
 
 ###
 
@@ -23,8 +23,8 @@
 
 <div align="left">
 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
