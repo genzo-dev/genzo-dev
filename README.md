@@ -58,6 +58,13 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 <h2>🚀 Projetos em destaque</h2>
 
 <ul>
+<li>
+  <strong>Vamo Trabalhar</strong> <em>(em produção · rebrand e refactor)</em> – 
+  <a href="https://www.vamotrabalhar.com/" target="_blank">Ver sistema</a><br>
+  Plataforma desenvolvida de forma colaborativa pela comunidade Oiticica Valley, com o objetivo de conectar pessoas a profissionais de serviços locais, com base em proximidade, avaliações e disponibilidade.<br>
+  <em>Tecnologias:</em> Next.js, NestJS, TypeScript, Tailwind CSS, Jest, Cypress
+</li>
+  <br>
   <li>
     <strong>Conta Certa <em>(em desenvolvimento)</em></strong> – 
     <a href="https://github.com/genzo-dev/conta-certa" target="_blank">Repositório</a><br>
