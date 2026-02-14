@@ -65,6 +65,7 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
   <em>Tecnologias:</em> Next.js, NestJS, TypeScript, Tailwind CSS, Jest, Cypress
 </li>
   <br>
+  <!--
   <li>
     <strong>Conta Certa <em>(em desenvolvimento)</em></strong> – 
     <a href="https://github.com/genzo-dev/conta-certa" target="_blank">Repositório</a><br>
@@ -72,6 +73,7 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
     <em>Tecnologias:</em> Next.js, NestJS, TypeScript, Tailwind CSS, Jest, Swagger, Insomnia, PostgreSQL, Docker
   </li>
   <br>
+  -->
   <li>
     <strong>Fala Aí, IFRN <em>(em desenvolvimento)</em></strong> – 
     <a href="https://github.com/JoaoManoelFontes/falaai-ifrn" target="_blank">Repositório</a><br>
@@ -89,12 +91,14 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 <h3 align="left">Redes sociais:</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-enzo-200403233" target="_blank">
+  <a href="https://www.linkedin.com/in/genzo-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
   </a>
+  <!--
   <a href="https://www.instagram.com/g.enzo._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo"  />
   </a>
+  -->
   <a href="https://discord.com/users/318120535496065034" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="discord logo"  />
   </a>
