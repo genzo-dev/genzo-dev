@@ -12,6 +12,12 @@ Sou um desenvolvedor full stack com foco no desenvolvimento web. Atualmente, tra
 Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas de desenvolvimento, com atenção à performance, segurança e experiência do usuário. Estou constantemente em busca de novos desafios, aprendendo novas tecnologias e evoluindo tanto tecnicamente quanto profissionalmente.
 </p>
 
+###
+
+ <h2 align="left">Status</h2>
+
+###
+
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/genzo-dev/genzo-dev/stats-output/stats.svg" height="150"/>
@@ -23,17 +29,6 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 <img src="https://raw.githubusercontent.com/genzo-dev/genzo-dev/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 
 ###
-
-<!-- <h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genzo-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-### -->
 
 <h2 align="left">🛠️ Techs</h2>
 
