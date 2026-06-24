@@ -19,14 +19,27 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 ###
 
 <div align="center">
+
+![genzo-dev's Stats](https://github-readme-stats.vercel.app/api?username=genzo-dev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![genzo-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=genzo-dev&theme=dark&hide_border=true)
+
+</div>
+<!--
+![genzo-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genzo-dev&theme=dark&show_icons=true&hide_border=true&layout=compact)
+-->
+
+ 
+<!--
   
 <img src="https://raw.githubusercontent.com/genzo-dev/genzo-dev/stats-output/stats.svg" height="150"/>
 
-<img src="https://streak-stats.demolab.com/?user=genzo-dev&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com/?user=genzo-dev&locale=en&mode=weekly&theme=shadow-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-</div>
+
 
 <img src="https://raw.githubusercontent.com/genzo-dev/genzo-dev/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+
+-->
 
 ###
 
@@ -82,7 +95,7 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
   <br>
   -->
   <li>
-    <strong>Fala Aí, IFRN <em>(em desenvolvimento)</em></strong> – 
+    <strong>Fala Aí, IFRN</strong> – 
     <a href="https://github.com/JoaoManoelFontes/falaai-ifrn" target="_blank">Repositório</a><br>
     Plataforma desenvolvida como trabalho acadêmico, voltada ao envio de sugestões e ideias para melhoria do ambiente do IFRN.<br>
     <em>Tecnologias:</em> Python, HTML, TailwindCSS, Django Templates
