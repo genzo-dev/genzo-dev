@@ -20,8 +20,8 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=genzo-dev&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=genzo-dev&theme=dark&hide_border=true" height="150" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=genzo-dev&theme=dark&show_icons=true&hide_border=true&count_private=true" height="180" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=genzo-dev&theme=dark&hide_border=true" height="180" />
   
 </div>
 <!--
