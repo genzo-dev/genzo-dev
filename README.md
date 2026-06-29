@@ -20,7 +20,22 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=genzo-dev&theme=dark&show_icons=true&hide_border=true&count_private=true" height="180" />
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=genzo-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=genzo-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=genzo-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
+[![](https://komarev.com/ghpvc/?username=genzo-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+-->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=genzo-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=genzo-dev&theme=dark&hide_border=true" height="180" />
   
 </div>
