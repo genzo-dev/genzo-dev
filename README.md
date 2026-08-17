@@ -1,8 +1,12 @@
+![Banner genzo-dev](./banner_genzo_dev.png)
+
+<!--
+
 <h1 align="left">Olá 👋, eu sou o Gabriel Enzo!</h1>
 
 
 <h3 align="left">Desenvolvedor Full Stack focado em aplicações web</h3>
-
+-->
 
 <h2>👨‍💻 Sobre mim</h2>
 
@@ -58,7 +62,7 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 
 ###
 
-<h2 align="left">🛠️ Techs</h2>
+<h2 align="left">🛠️ Minha Stack</h2>
 
 ###
 
@@ -85,7 +89,6 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
   <img width="12" />
   <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="42" alt="insomnia logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
 </div>
 
 ###
@@ -123,17 +126,21 @@ Gosto de criar soluções práticas e eficientes, sempre seguindo boas práticas
 
 ###
 
-<h3 align="left">Redes sociais:</h3>
+<h3 align="left">Contato</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/genzo-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="linkedin logo"  />
   </a>
-  <!--
-  <a href="https://www.instagram.com/g.enzo._/" target="_blank">
+
+   <a href="mailto:gabrielenzodev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=101010&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="email logo"  />
+  </a>
+  
+  <a href="https://www.instagram.com/genzo_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="instagram logo"  />
   </a>
-  -->
+  
   <a href="https://discord.com/users/318120535496065034" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="discord logo"  />
   </a>
